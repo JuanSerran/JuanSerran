@@ -1,6 +1,6 @@
 ﻿namespace CapaPresentacion
 {
-    partial class frmPrincipal
+    partial class frmClientes
     {
         /// <summary>
         /// Required designer variable.
@@ -28,20 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // frmPrincipal
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "frmPrincipal";
-            this.Text = "Web3Utn";
-            this.ResumeLayout(false);
-
+            this.Text = "frmClientes";
         }
 
         #endregion
     }
 }
-
