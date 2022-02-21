@@ -16,5 +16,13 @@ namespace CapaPresentacion
         {
             InitializeComponent();
         }
+
+        private void mnuClientes_Click(object sender, EventArgs e)
+        {
+            //una instancia-- accediendo a la memoria
+            frmClientes frmclientes=new frmClientes();
+            //showdialog muestra el formulario
+            frmclientes.ShowDialog();
+        }
     }
 }
