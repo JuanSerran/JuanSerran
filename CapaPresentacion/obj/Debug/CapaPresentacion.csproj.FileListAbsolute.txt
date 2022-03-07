@@ -13,3 +13,4 @@ C:\Users\jserranog\source\repos\web3UTNApp\CapaPresentacion\bin\Debug\CapaNegoci
 C:\Users\jserranog\source\repos\web3UTNApp\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
 C:\Users\jserranog\source\repos\web3UTNApp\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal2.resources
 C:\Users\jserranog\source\repos\web3UTNApp\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\jserranog\source\repos\web3UTNApp\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal3.resources
