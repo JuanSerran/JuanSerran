@@ -47,6 +47,7 @@
             // 
             // pnlPrincipal
             // 
+            this.pnlPrincipal.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.pnlPrincipal.Controls.Add(this.pnlTitulo);
             this.pnlPrincipal.Controls.Add(this.pnlMenu);
             this.pnlPrincipal.Dock = System.Windows.Forms.DockStyle.Fill;

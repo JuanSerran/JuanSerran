@@ -16,5 +16,20 @@ namespace CapaPresentacion
         {
             InitializeComponent();
         }
+
+        private void lblTitulo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmClientes_Load(object sender, EventArgs e)
+        {
+            lblTitulo.Text = "Mantenimiento de clientes";
+        }
+
+        private void pbCerrar_Click(object sender, EventArgs e)
+        {
+            this.Close();   
+        }
     }
 }

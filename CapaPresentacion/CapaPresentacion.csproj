@@ -75,6 +75,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmClientes.resx">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmPrincipal2.resx">
       <DependentUpon>frmPrincipal2.cs</DependentUpon>
     </EmbeddedResource>
@@ -107,6 +110,10 @@
     <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
       <Project>{9d90600b-ce3c-4ca5-beec-f5725b11f593}</Project>
       <Name>CapaNegocio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{82671246-7a8b-4074-9ce6-882d407459c2}</Project>
+      <Name>Entidades</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
